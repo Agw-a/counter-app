@@ -24,10 +24,10 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Requirements
-[ ] Set up a counter compossible with Increament
+<!-- [ ] Set up a counter compossible with Increament
 [ ] Decreament
 [ ] Reset value
 [ ] Set value
 [ ] Vuex state managent
 [ ] Root route '/counter'
-[ ] Wildcard route
+[ ] Wildcard route -->
